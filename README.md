@@ -3,8 +3,8 @@
 ## about:
 i'm zezo, currently a cs student.
 
--i'm interested in linux, android, and general software development.
--i'm currently interested in learning C++.
+- i'm interested in linux, android, and general software development.
+- i'm currently interested in learning C++.
 
 ## programming languages:
 ![C++](https://img.shields.io/badge/C++-171717?logo=cplusplus)
