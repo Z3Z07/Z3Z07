@@ -7,12 +7,12 @@ i'm currently focusing on learning C++.
 
 ## programming languages:
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c)
-![java](https://img.shields.io/badge/java-437291?logo=openjdk)
-![python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![C](https://img.shields.io/badge/C-#CCBBA8?logo=c)
+![java](https://img.shields.io/badge/java-916243?logo=openjdk)
+![python](https://img.shields.io/badge/Python-AB6C37?logo=python)
 
 ## other:
-![html](https://img.shields.io/badge/html-E34F26?logo=html5)
+![html](https://img.shields.io/badge/html-26BAE3?logo=html5)
 
 
 <!---
