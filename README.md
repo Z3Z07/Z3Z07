@@ -6,13 +6,13 @@ i'm interested in linux, android, and general software development.
 i'm currently focusing on learning C++.
 
 ## programming languages:
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
-![C](https://img.shields.io/badge/C-#CCBBA8?logo=c)
-![java](https://img.shields.io/badge/java-916243?logo=openjdk)
-![python](https://img.shields.io/badge/Python-AB6C37?logo=python)
+![C++](https://img.shields.io/badge/C++-171717?logo=cplusplus)
+![C](https://img.shields.io/badge/C-171717?logo=c)
+![java](https://img.shields.io/badge/java-171717?logo=openjdk)
+![python](https://img.shields.io/badge/Python-171717?logo=python)
 
 ## other:
-![html](https://img.shields.io/badge/html-26BAE3?logo=html5)
+![html](https://img.shields.io/badge/html-171717?logo=html5)
 
 
 <!---
